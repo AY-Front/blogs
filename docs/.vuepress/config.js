@@ -1,7 +1,7 @@
 module.exports = {
     title: 'XXX的博客',
     description: 'YYY',
-    base: 'blogs',
+    base: '/blogs/',
     themeConfig: {
         nav: [
             { text: "首页", link: "/" },
